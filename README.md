@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">A passionate Web App developer and Software Engineering enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin0k" alt="sachin0k" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/imsachin02" target="blank"><img src="https://img.shields.io/twitter/follow/imsachin02?logo=twitter&style=for-the-badge" alt="imsachin02" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript and React.js**
@@ -15,6 +13,8 @@
 <p align="left">
 <a href="https://twitter.com/imsachin02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imsachin02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imsachin01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imsachin01" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sachin0k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sachin0k" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sachin0k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sachin0k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
