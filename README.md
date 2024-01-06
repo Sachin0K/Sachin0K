@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **reachtome87@gmail.com**
 
-- ⚡ Fun fact **I think I understand code but not.**
+- ⚡ Fun fact **I think I understand code but I'm not.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
